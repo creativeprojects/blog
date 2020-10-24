@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://creativeprojects.tech/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://creativeprojects.tech/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://creativeprojects.tech/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://creativeprojects.tech/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://creativeprojects.tech/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/fr/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://creativeprojects.tech/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://creativeprojects.tech/fr/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://creativeprojects.tech/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://creativeprojects.tech/fr/tags/"
+                />
+  </url>
+  
+</urlset>

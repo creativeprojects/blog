@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>linux on Creative Projects</title>
+    <link>https://creativeprojects.tech/en/tags/linux/</link>
+    <description>Recent content in linux on Creative Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>fred@creativeprojects.tech (Fred)</managingEditor>
+    <webMaster>fred@creativeprojects.tech (Fred)</webMaster>
+    <copyright>&amp;copy;{year} Creative Projects, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 14 Oct 2020 20:48:24 +0100</lastBuildDate>
+    
+        <atom:link href="https://creativeprojects.tech/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Better protection against DDoS using Cloudflare and Linux firewall</title>
+        <link>https://creativeprojects.tech/en/posts/cloudflare-linux-firewall/</link>
+        <pubDate>Wed, 14 Oct 2020 20:48:24 +0100</pubDate>
+        <author>fred@creativeprojects.tech (Fred)</author>
+        <atom:modified>Wed, 14 Oct 2020 20:48:24 +0100</atom:modified>
+        <guid>https://creativeprojects.tech/en/posts/cloudflare-linux-firewall/</guid>
+        <description>If you’re not using Cloudflare yet, maybe you should consider it Here are all the good reasons why you should use it:  It’s free.
+Well the basic version is free, and it’s enough for most people. Really. It can prevent DDoS attacks on your website. You get a free CDN.
+It will speed up all the static files of your website by caching them in the Cloudflare servers: all your .</description>
+        
+        <dc:creator>Fred</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>cdn</category>
+            
+          
+            
+              <category>cloudflare</category>
+            
+          
+            
+              <category>ddos</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>ufw</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

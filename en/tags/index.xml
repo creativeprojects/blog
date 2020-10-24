@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Creative Projects</title>
+    <link>https://creativeprojects.tech/en/tags/</link>
+    <description>Recent content in Tags on Creative Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>fred@creativeprojects.tech (Fred)</managingEditor>
+    <webMaster>fred@creativeprojects.tech (Fred)</webMaster>
+    <copyright>&amp;copy;{year} Creative Projects, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 14 Oct 2020 20:48:24 +0100</lastBuildDate>
+    
+        <atom:link href="https://creativeprojects.tech/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>cdn</title>
+        <link>https://creativeprojects.tech/en/tags/cdn/</link>
+        <pubDate>Wed, 14 Oct 2020 20:48:24 +0100</pubDate>
+        <author>fred@creativeprojects.tech (Fred)</author>
+        
+        <guid>https://creativeprojects.tech/en/tags/cdn/</guid>
+        <description></description>
+        
+        <dc:creator>Fred</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>cloudflare</title>
+        <link>https://creativeprojects.tech/en/tags/cloudflare/</link>
+        <pubDate>Wed, 14 Oct 2020 20:48:24 +0100</pubDate>
+        <author>fred@creativeprojects.tech (Fred)</author>
+        
+        <guid>https://creativeprojects.tech/en/tags/cloudflare/</guid>
+        <description></description>
+        
+        <dc:creator>Fred</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ddos</title>
+        <link>https://creativeprojects.tech/en/tags/ddos/</link>
+        <pubDate>Wed, 14 Oct 2020 20:48:24 +0100</pubDate>
+        <author>fred@creativeprojects.tech (Fred)</author>
+        
+        <guid>https://creativeprojects.tech/en/tags/ddos/</guid>
+        <description></description>
+        
+        <dc:creator>Fred</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>linux</title>
+        <link>https://creativeprojects.tech/en/tags/linux/</link>
+        <pubDate>Wed, 14 Oct 2020 20:48:24 +0100</pubDate>
+        <author>fred@creativeprojects.tech (Fred)</author>
+        
+        <guid>https://creativeprojects.tech/en/tags/linux/</guid>
+        <description></description>
+        
+        <dc:creator>Fred</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ufw</title>
+        <link>https://creativeprojects.tech/en/tags/ufw/</link>
+        <pubDate>Wed, 14 Oct 2020 20:48:24 +0100</pubDate>
+        <author>fred@creativeprojects.tech (Fred)</author>
+        
+        <guid>https://creativeprojects.tech/en/tags/ufw/</guid>
+        <description></description>
+        
+        <dc:creator>Fred</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>https://creativeprojects.tech/en/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>fred@creativeprojects.tech (Fred)</author>
+        
+        <guid>https://creativeprojects.tech/en/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>Fred</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

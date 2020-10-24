@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://creativeprojects.tech/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://creativeprojects.tech/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/posts/cloudflare-linux-firewall/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/tags/cdn/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/tags/cloudflare/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/tags/ddos/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/tags/linux/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/posts/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/tags/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://creativeprojects.tech/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://creativeprojects.tech/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/tags/ufw/</loc>
+    <lastmod>2020-10-14T20:48:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://creativeprojects.tech/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://creativeprojects.tech/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://creativeprojects.tech/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://creativeprojects.tech/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://creativeprojects.tech/en/series/"
+                />
+  </url>
+  
+</urlset>
